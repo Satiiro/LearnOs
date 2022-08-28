@@ -1,0 +1,233 @@
+body{
+    background-color: #EDEDE9;
+    overflow-x: hidden;
+}
+/* Imagens */
+.gittopo{
+    position: absolute;
+    top: 0%;
+    left: -0%;
+}
+
+.seta{
+    position: absolute;
+    left: 1.5%;
+    top:1.5%
+}
+/* Fim das imagens */
+
+
+/* O que é Flask */
+#oqueeflask{
+    position: absolute;
+    font-family: "Nunito", 'sans-serif';
+    top: 50%;
+    left: 5%;
+    font-weight: 800;
+}
+
+#oqueetexto{
+    position: absolute;
+    font-family: "Nunito", 'sans-serif';
+    top: 58%;
+    left: 5%;
+    margin-right: 3%;
+    font-weight: 600;
+}
+
+ul{
+    font-family: "Nunito", 'sans-serif';
+    position: absolute;
+    top: 69%;
+    left: 3.5%;
+    font-weight: 600;
+}
+/* Fim do "O que é Flask" */
+
+/* Pré requesitos */
+
+#prerequesitostitulo{
+    position: absolute;
+    font-family: "Nunito", 'sans-serif';
+    top: 80%;
+    left: 5%;
+    font-weight: 800;
+    margin-right: 3%;
+}
+
+#prerequesitos{
+    position: absolute;
+    font-family: 'Nunito', 'sans-serif';
+    top: 88%;
+    left: 5%;
+    margin-right: 3%;
+    font-weight: 600;
+}
+
+#lista2{
+    position: absolute;
+    top: 92%;
+    font-weight: 600;
+}
+
+#segundaparte{
+    position: absolute;
+    top: 100%;
+    font-family: 'nunito', 'sans-serif';
+    font-weight: 600;
+    left: 5%;
+    margin-right: 3%;
+
+}
+
+#gifnice{
+    position: absolute;
+    top: 108%;
+    left: 35%;
+    border-radius: 2%;
+}
+/* Fim dos pré requesitos */
+
+/* Como usar */
+
+#comousar{
+    font-family: "Nunito", 'sans-serif';
+    font-weight: 800;
+    position: absolute;
+    top: 155%;
+    left: 5%;
+}
+
+#comousartexto{
+    font-family: 'Nunito', 'sans-serif';
+    font-weight: 600;
+    position: absolute;
+    top: 163%;
+    left: 5%;
+    margin-right: 3%;
+}
+
+#primeiropasso{
+    font-family: 'Nunito', 'sans-serif';
+    font-weight: 700;
+    position: absolute;
+    top: 172%;
+    left: 5%;
+}
+
+#primeiropassotexto{
+    font-family: 'Nunito', 'sans-serif';
+    font-weight: 600;
+    position: absolute;
+    top: 176%;
+    left: 5%;
+}
+
+#acessarpackages{
+    position: absolute;
+    top: 185%;
+    left: 25%;
+}
+
+#segundopasso{
+    font-family: "Nunito", "sans-serif";
+    font-weight: 700;
+    position: absolute;
+    top: 245%;
+    left: 5%;
+}
+
+#segundopassotexto{
+    font-family: "Nunito", "sans-serif";
+    font-weight: 600;
+    position: absolute;
+    top: 250%;
+    left: 5%;
+}
+#installflask{
+    position: absolute;
+    top: 260%;
+    left: 25%;
+}
+
+#terceiropasso{
+    font-family: "Nunito", "sans-serif";
+    font-weight: 700;
+    position: absolute;
+    top: 323%;
+    left: 5%;
+}
+
+#terceiropassotexto{
+    font-family: "Nunito", "sans-serif";
+    font-weight: 600;
+    position: absolute;
+    top: 329%;
+    left: 5%;
+}
+
+#primeirarun{
+    position: absolute;
+    top: 340%;
+    left: 25%;
+}
+
+#terceiropassotexto2{
+    font-family: "Nunito", "sans-serif";
+    font-weight: 600;
+    position: absolute;
+    top: 410%;
+    left: 5%;
+    margin-right: 3%
+}
+
+#Documentacao{
+    font-family: "Nunito", 'sans-serif';
+    font-weight: 800;
+    position: absolute;
+    top: 415%;
+    left: 5%;
+}
+
+#documentacaotutorial{
+    font-family: "Nunito", 'sans-serif';
+    font-weight: 600;
+    position: absolute;
+    top: 423%;
+    left: 5%;
+    margin-right: 3%;
+}
+
+.DigitalOcean{
+    position: absolute;
+    top: 435%;
+    left: 5%;
+}
+
+.freeCodeCamp{
+    position: absolute;
+    top: 435%;
+    left: 35%;
+}
+
+.Microsoft{
+    position: absolute;
+    top: 435%;
+    left: 65%;
+}
+
+#fonte{
+    font-family: 'Nunito', 'san-serif';
+    font-weight: 800;
+    position: absolute;
+    top: 460%;
+    left: 5%;
+}
+
+#fontelista{
+    font-family: 'Nunito', 'sans-serif';
+    font-weight: 600;
+    position: absolute;
+    top: 470%;
+
+}

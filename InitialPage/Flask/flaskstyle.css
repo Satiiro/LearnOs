@@ -171,3 +171,63 @@ ul{
     top: 340%;
     left: 25%;
 }
+
+#terceiropassotexto2{
+    font-family: "Nunito", "sans-serif";
+    font-weight: 600;
+    position: absolute;
+    top: 410%;
+    left: 5%;
+    margin-right: 3%
+}
+
+#Documentacao{
+    font-family: "Nunito", 'sans-serif';
+    font-weight: 800;
+    position: absolute;
+    top: 415%;
+    left: 5%;
+}
+
+#documentacaotutorial{
+    font-family: "Nunito", 'sans-serif';
+    font-weight: 600;
+    position: absolute;
+    top: 423%;
+    left: 5%;
+    margin-right: 3%;
+}
+
+.DigitalOcean{
+    position: absolute;
+    top: 435%;
+    left: 5%;
+}
+
+.freeCodeCamp{
+    position: absolute;
+    top: 435%;
+    left: 35%;
+}
+
+.Microsoft{
+    position: absolute;
+    top: 435%;
+    left: 65%;
+}
+
+#fonte{
+    font-family: 'Nunito', 'san-serif';
+    font-weight: 800;
+    position: absolute;
+    top: 460%;
+    left: 5%;
+}
+
+#fontelista{
+    font-family: 'Nunito', 'sans-serif';
+    font-weight: 600;
+    position: absolute;
+    top: 470%;
+
+}
