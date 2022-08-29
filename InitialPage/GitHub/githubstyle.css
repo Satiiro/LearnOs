@@ -3,11 +3,11 @@ header{
     margin-left: -1%;
     width: 104%;
     height: 30rem;
-    background-color: #FFB703;
+    background-color: #E63946;
     text-align: center;
 }
 
-#imagemgit{
+#imagemgithub{
     margin-top: 5%;
 }
 
@@ -25,7 +25,7 @@ body{
 
 
 /* O que é Flask */
-#oqueegit{
+#oqueegithub{
     position: absolute;
     font-family: "Nunito", 'sans-serif';
     top: 50%;
@@ -205,19 +205,19 @@ ul{
     margin-right: 3%;
 }
 
-.Git{
+.Cod3r{
     position: absolute;
     top: 435%;
     left: 5%;
 }
 
-.Hostinger{
+.Guide{
     position: absolute;
     top: 435%;
     left: 35%;
 }
 
-.W3Shool{
+.Tecnoblog{
     position: absolute;
     top: 435%;
     left: 65%;

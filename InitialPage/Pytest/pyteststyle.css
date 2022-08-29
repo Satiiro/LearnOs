@@ -1,31 +1,25 @@
-header{
-    margin-top: -2%;
-    margin-left: -1%;
-    width: 104%;
-    height: 30rem;
-    background-color: #FFB703;
-    text-align: center;
-}
-
-#imagemgit{
-    margin-top: 5%;
-}
-
 body{
     background-color: #EDEDE9;
     overflow-x: hidden;
 }
-/* Imagens */
-.gittopo{
-    position: absolute;
-    top: 0%;
-    left: -0%;
+
+
+header{
+    margin-top: -1%;
+    margin-left: -0.40%;
+    width: 104%;
+    height: 30rem;
+    background-color: #43D976;
+    text-align: center;
 }
-/* Fim das imagens */
+
+#imagempytest{
+    margin-top: 5%;
+}
 
 
 /* O que é Flask */
-#oqueegit{
+#oqueeflask{
     position: absolute;
     font-family: "Nunito", 'sans-serif';
     top: 50%;
@@ -45,7 +39,7 @@ body{
 ul{
     font-family: "Nunito", 'sans-serif';
     position: absolute;
-    top: 75%;
+    top: 69%;
     left: 3.5%;
     font-weight: 600;
 }
@@ -56,7 +50,7 @@ ul{
 #prerequesitostitulo{
     position: absolute;
     font-family: "Nunito", 'sans-serif';
-    top: 85%;
+    top: 80%;
     left: 5%;
     font-weight: 800;
     margin-right: 3%;
@@ -65,7 +59,7 @@ ul{
 #prerequesitos{
     position: absolute;
     font-family: 'Nunito', 'sans-serif';
-    top: 92%;
+    top: 88%;
     left: 5%;
     margin-right: 3%;
     font-weight: 600;
@@ -73,13 +67,13 @@ ul{
 
 #lista2{
     position: absolute;
-    top: 97%;
+    top: 92%;
     font-weight: 600;
 }
 
 #segundaparte{
     position: absolute;
-    top: 108%;
+    top: 100%;
     font-family: 'nunito', 'sans-serif';
     font-weight: 600;
     left: 5%;
@@ -89,7 +83,7 @@ ul{
 
 #gifnice{
     position: absolute;
-    top: 125%;
+    top: 108%;
     left: 35%;
     border-radius: 2%;
 }
@@ -205,19 +199,19 @@ ul{
     margin-right: 3%;
 }
 
-.Git{
+.DigitalOcean{
     position: absolute;
     top: 435%;
     left: 5%;
 }
 
-.Hostinger{
+.freeCodeCamp{
     position: absolute;
     top: 435%;
     left: 35%;
 }
 
-.W3Shool{
+.Microsoft{
     position: absolute;
     top: 435%;
     left: 65%;
