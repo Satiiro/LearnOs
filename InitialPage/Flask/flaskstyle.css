@@ -2,19 +2,20 @@ body{
     background-color: #EDEDE9;
     overflow-x: hidden;
 }
-/* Imagens */
-.Flask-logo{
-    position: absolute;
-    top: 0%;
-    left: -0%;
+
+
+header{
+    margin-top: -1%;
+    margin-left: -0.40%;
+    width: 104%;
+    height: 30rem;
+    background-color: #0096C7;
+    text-align: center;
 }
 
-.seta{
-    position: absolute;
-    left: 1.5%;
-    top:1.5%
+#imagemflask{
+    margin-top: 5%;
 }
-/* Fim das imagens */
 
 
 /* O que é Flask */
