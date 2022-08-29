@@ -1,3 +1,10 @@
+@font-face {
+    font-family: Nunito;
+    src: url(InitialPage\Nunito-VariableFont_wght.ttf);
+}
+
+
+
 body{
     background-color: #EDEDE9;
     overflow-x: hidden;
