@@ -7,8 +7,8 @@ body{
 header{
     margin-top: -1%;
     margin-left: -0.40%;
-    width: 104%;
-    height: 30rem;
+    width: 105%;
+    height: 31rem;
     background-color: #FFB703;
     text-align: center;
 }
@@ -155,7 +155,7 @@ ul{
     font-family: "Nunito", "sans-serif";
     font-weight: 700;
     position: absolute;
-    top: 323%;
+    top: 325%;
     left: 5%;
 }
 
@@ -163,7 +163,7 @@ ul{
     font-family: "Nunito", "sans-serif";
     font-weight: 600;
     position: absolute;
-    top: 329%;
+    top: 331%;
     left: 5%;
 }
 
