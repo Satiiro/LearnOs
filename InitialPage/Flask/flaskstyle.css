@@ -32,6 +32,7 @@ header{
     top: 50%;
     left: 5%;
     padding-top: 30px;
+    padding-right: 50px;
     font-weight: 800;
 }
 
@@ -42,7 +43,7 @@ header{
     left: 5%;
     margin-right: 3%;
     padding-top: 30px;
-    padding-right: 30px;
+    padding-right: 50px;
     font-weight: 600;
 }
 
@@ -52,6 +53,7 @@ ul{
     top: 69%;
     left: 5.5%;
     padding-top: 30px;
+    padding-right: 50px;
     font-weight: 600;
 }
 /* Fim do "O que é Flask" */
@@ -64,6 +66,7 @@ ul{
     top: 80%;
     left: 5%;
     padding-top: 30px;
+    padding-right: 50px;
     font-weight: 800;
     margin-right: 3%;
 }
@@ -74,6 +77,7 @@ ul{
     top: 88%;
     left: 5%;
     padding-top: 30px;
+    padding-right: 50px;
     margin-right: 3%;
     font-weight: 600;
 }
@@ -82,6 +86,7 @@ ul{
     position: relative;
     top: 92%;
     padding-top: 30px;
+    padding-right: 50px;
     font-weight: 600;
 }
 
@@ -92,6 +97,7 @@ ul{
     font-weight: 600;
     left: 5%;
     padding-top: 30px;
+    padding-right: 50px;
     margin-right: 3%;
 
 }
@@ -101,6 +107,7 @@ ul{
     top: 108%;
     left: 35%;
     padding-top: 30px;
+    padding-right: 50px;
     border-radius: 2%;
 }
 /* Fim dos pré requesitos */
@@ -114,6 +121,7 @@ ul{
     top: 155%;
     left: 5%;
     padding-top: 30px;
+    padding-right: 50px;
 }
 
 #comousartexto{
@@ -123,6 +131,7 @@ ul{
     top: 163%;
     left: 5%;
     padding-top: 30px;
+    padding-right: 50px;
     margin-right: 3%;
 }
 
@@ -133,6 +142,7 @@ ul{
     top: 172%;
     left: 5%;
     padding-top: 30px;
+    padding-right: 50px;
 }
 
 #primeiropassotexto{
@@ -142,6 +152,7 @@ ul{
     top: 176%;
     left: 5%;
     padding-top: 30px;
+    padding-right: 50px;
 }
 
 #acessarpackages{
@@ -149,6 +160,7 @@ ul{
     top: 185%;
     left: 25%;
     padding-top: 30px;
+    padding-right: 50px;
 }
 
 #segundopasso{
@@ -158,6 +170,7 @@ ul{
     top: 245%;
     left: 5%;
     padding-top: 30px;
+    padding-right: 50px;
 }
 
 #segundopassotexto{
@@ -167,12 +180,14 @@ ul{
     top: 250%;
     left: 5%;
     padding-top: 30px;
+    padding-right: 50px;
 }
 #installflask{
     position: relative;
     top: 260%;
     left: 25%;
     padding-top: 30px;
+    padding-right: 50px;
 }
 
 #terceiropasso{
@@ -182,6 +197,7 @@ ul{
     top: 323%;
     left: 5%;
     padding-top: 30px;
+    padding-right: 50px;
 }
 
 #terceiropassotexto{
@@ -191,12 +207,15 @@ ul{
     top: 329%;
     left: 5%;
     padding-top: 30px;
+    padding-right: 50px;
 }
 
 #primeirarun{
     position: relative;
     top: 340%;
     left: 25%;
+    padding-top: 30px;
+    padding-right: 50px;
 }
 
 #terceiropassotexto2{
@@ -206,6 +225,7 @@ ul{
     top: 410%;
     left: 5%;
     padding-top: 30px;
+    padding-right: 50px;
     margin-right: 3%
 }
 
@@ -216,6 +236,7 @@ ul{
     top: 415%;
     left: 5%;
     padding-top: 30px;
+    padding-right: 50px;
 }
 
 #documentacaotutorial{
@@ -225,6 +246,7 @@ ul{
     top: 423%;
     left: 5%;
     padding-top: 30px;
+    padding-right: 50px;
     margin-right: 3%;
 }
 
