@@ -20,7 +20,9 @@ header{
 
 /* O que é Flask */
 #oqueeflask{
-    position: absolute;
+    position: relative;
+    padding-top: 30px;
+    padding-right: 50px;
     font-family: "Nunito", 'sans-serif';
     top: 50%;
     left: 5%;
@@ -28,7 +30,9 @@ header{
 }
 
 #oqueetexto{
-    position: absolute;
+    position: relative;
+    padding-top: 30px;
+    padding-right: 50px;
     font-family: "Nunito", 'sans-serif';
     top: 58%;
     left: 5%;
@@ -38,7 +42,9 @@ header{
 
 ul{
     font-family: "Nunito", 'sans-serif';
-    position: absolute;
+    position: relative;
+    padding-top: 30px;
+    padding-right: 50px;
     top: 69%;
     left: 3.5%;
     font-weight: 600;
@@ -48,7 +54,9 @@ ul{
 /* Pré requesitos */
 
 #prerequesitostitulo{
-    position: absolute;
+    position: relative;
+    padding-top: 30px;
+    padding-right: 50px;
     font-family: "Nunito", 'sans-serif';
     top: 80%;
     left: 5%;
@@ -57,7 +65,9 @@ ul{
 }
 
 #prerequesitos{
-    position: absolute;
+    position: relative;
+    padding-top: 30px;
+    padding-right: 50px;
     font-family: 'Nunito', 'sans-serif';
     top: 88%;
     left: 5%;
@@ -66,13 +76,17 @@ ul{
 }
 
 #lista2{
-    position: absolute;
+    position: relative;
+    padding-top: 30px;
+    padding-right: 50px;
     top: 92%;
     font-weight: 600;
 }
 
 #segundaparte{
-    position: absolute;
+    position: relative;
+    padding-top: 30px;
+    padding-right: 50px;
     top: 100%;
     font-family: 'nunito', 'sans-serif';
     font-weight: 600;
@@ -82,7 +96,9 @@ ul{
 }
 
 #gifnice{
-    position: absolute;
+    position: relative;
+    padding-top: 30px;
+    padding-right: 50px;
     top: 108%;
     left: 35%;
     border-radius: 2%;
@@ -94,7 +110,9 @@ ul{
 #comousar{
     font-family: "Nunito", 'sans-serif';
     font-weight: 800;
-    position: absolute;
+    position: relative;
+    padding-top: 30px;
+    padding-right: 50px;
     top: 155%;
     left: 5%;
 }
@@ -102,7 +120,9 @@ ul{
 #comousartexto{
     font-family: 'Nunito', 'sans-serif';
     font-weight: 600;
-    position: absolute;
+    position: relative;
+    padding-top: 30px;
+    padding-right: 50px;
     top: 163%;
     left: 5%;
     margin-right: 3%;
@@ -111,7 +131,9 @@ ul{
 #primeiropasso{
     font-family: 'Nunito', 'sans-serif';
     font-weight: 700;
-    position: absolute;
+    position: relative;
+    padding-top: 30px;
+    padding-right: 50px;
     top: 172%;
     left: 5%;
 }
@@ -119,13 +141,17 @@ ul{
 #primeiropassotexto{
     font-family: 'Nunito', 'sans-serif';
     font-weight: 600;
-    position: absolute;
+    position: relative;
+    padding-top: 30px;
+    padding-right: 50px;
     top: 176%;
     left: 5%;
 }
 
 #acessarpackages{
-    position: absolute;
+    position: relative;
+    padding-top: 30px;
+    padding-right: 50px;
     top: 185%;
     left: 25%;
 }
@@ -133,7 +159,9 @@ ul{
 #segundopasso{
     font-family: "Nunito", "sans-serif";
     font-weight: 700;
-    position: absolute;
+    position: relative;
+    padding-top: 30px;
+    padding-right: 50px;
     top: 245%;
     left: 5%;
 }
@@ -141,12 +169,16 @@ ul{
 #segundopassotexto{
     font-family: "Nunito", "sans-serif";
     font-weight: 600;
-    position: absolute;
+    position: relative;
+    padding-top: 30px;
+    padding-right: 50px;
     top: 250%;
     left: 5%;
 }
 #installflask{
-    position: absolute;
+    position: relative;
+    padding-top: 30px;
+    padding-right: 50px;
     top: 260%;
     left: 25%;
 }
@@ -154,7 +186,9 @@ ul{
 #terceiropasso{
     font-family: "Nunito", "sans-serif";
     font-weight: 700;
-    position: absolute;
+    position: relative;
+    padding-top: 30px;
+    padding-right: 50px;
     top: 323%;
     left: 5%;
 }
@@ -162,13 +196,17 @@ ul{
 #terceiropassotexto{
     font-family: "Nunito", "sans-serif";
     font-weight: 600;
-    position: absolute;
+    position: relative;
+    padding-top: 30px;
+    padding-right: 50px;
     top: 329%;
     left: 5%;
 }
 
 #primeirarun{
-    position: absolute;
+    position: relative;
+    padding-top: 30px;
+    padding-right: 50px;
     top: 340%;
     left: 25%;
 }
@@ -176,7 +214,9 @@ ul{
 #terceiropassotexto2{
     font-family: "Nunito", "sans-serif";
     font-weight: 600;
-    position: absolute;
+    position: relative;
+    padding-top: 30px;
+    padding-right: 50px;
     top: 410%;
     left: 5%;
     margin-right: 3%
@@ -185,7 +225,9 @@ ul{
 #Documentacao{
     font-family: "Nunito", 'sans-serif';
     font-weight: 800;
-    position: absolute;
+    position: relative;
+    padding-top: 30px;
+    padding-right: 50px;
     top: 415%;
     left: 5%;
 }
@@ -193,34 +235,52 @@ ul{
 #documentacaotutorial{
     font-family: "Nunito", 'sans-serif';
     font-weight: 600;
-    position: absolute;
+    position: relative;
+    padding-top: 30px;
+    padding-right: 50px;
     top: 423%;
     left: 5%;
     margin-right: 3%;
 }
 
-.DigitalOcean{
-    position: absolute;
-    top: 435%;
-    left: 5%;
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    gap: 40px;
+    padding: 60px 20px;
 }
 
-.freeCodeCamp{
-    position: absolute;
-    top: 435%;
-    left: 35%;
+.Medium{
+    position: relative;
+    margin: auto;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.RealPython{
+    position: relative;
+    margin: auto;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
 }
 
 .Microsoft{
-    position: absolute;
-    top: 435%;
-    left: 65%;
+    position: relative;
+    margin: auto;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
 }
 
 #fonte{
     font-family: 'Nunito', 'san-serif';
     font-weight: 800;
-    position: absolute;
+    position: relative;
+    padding-top: 30px;
+    padding-right: 50px;
     top: 460%;
     left: 5%;
 }
@@ -228,7 +288,9 @@ ul{
 #fontelista{
     font-family: 'Nunito', 'sans-serif';
     font-weight: 600;
-    position: absolute;
+    position: relative;
+    padding-top: 30px;
+    padding-right: 50px;
     top: 470%;
 
 }
