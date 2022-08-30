@@ -173,6 +173,7 @@ ul{
     left: 5%;
 }
 
+
 #primeirarun{
     position: absolute;
     top: 340%;
@@ -192,7 +193,7 @@ ul{
     font-family: "Nunito", 'sans-serif';
     font-weight: 800;
     position: absolute;
-    top: 415%;
+    top: 425%;
     left: 5%;
 }
 
@@ -200,26 +201,26 @@ ul{
     font-family: "Nunito", 'sans-serif';
     font-weight: 600;
     position: absolute;
-    top: 423%;
+    top: 435%;
     left: 5%;
     margin-right: 3%;
 }
 
 .Cod3r{
     position: absolute;
-    top: 435%;
+    top: 447%;
     left: 5%;
 }
 
 .Guide{
     position: absolute;
-    top: 435%;
+    top: 447%;
     left: 35%;
 }
 
 .Tecnoblog{
     position: absolute;
-    top: 435%;
+    top: 447%;
     left: 65%;
 }
 
@@ -227,7 +228,7 @@ ul{
     font-family: 'Nunito', 'san-serif';
     font-weight: 800;
     position: absolute;
-    top: 460%;
+    top: 472%;
     left: 5%;
 }
 
@@ -235,6 +236,6 @@ ul{
     font-family: 'Nunito', 'sans-serif';
     font-weight: 600;
     position: absolute;
-    top: 470%;
+    top: 480%;
 
 }
