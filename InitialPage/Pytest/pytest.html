@@ -18,57 +18,54 @@
     <!--Fim-->
 
     <!-- Primeira parte de Flask -->
-    <h1 id="oqueeflask">O que é o Flask?</h1>
-    <p id="oqueetexto">O Flask é um framework escrito na linguagem de programação Python, ele está na categoria de miniframeworks pois não exige ferramentas ou blblioteca particulares. Ele foi desenvolvido em 2010 por Armin Ronacher, sendo baseado em duas coisas, no kit de ferramenta chamado WSGI e na biblioteca chamada Jinja2, essa sua facilidade pode ajudar principalmente novos desenvolvedores que querem desenvolver aplicativos web mais rapidamente. Ele tem como benefícios:</p>
+    <h1 id="oqueeflask">O que é o PyTest?</h1>
+    <p id="oqueetexto"> PyTest é uma estrutura de teste que permite aos usuários escrever códigos de teste usando a linguagem de programação Python. Ele ajuda você a escrever casos de teste simples e escaláveis para bancos de dados, APIs ou UI. PyTest é usado principalmente para escrever testes para APIs. Ele ajuda a escrever testes desde testes unitários simples até testes funcionais complexos. Ele tem como benefícios:</p>
     <ul>
-    <li>Simplicidade;</li>
-    <li>Soluções fáceis;</li>
-    <li>Rapidez;</li>
+    <li>Muito fácil de começar por causa de sua sintaxe simples e fácil;</li>
+    <li>Código aberto;</li>
+    <li>Pode executar testes em paralelo;</li>
+    <li>Detectar testes automaticamente;</li>
     </ul>
     <!-- Fim primeira parte -->
 
     <!-- Segundo tópico Flask -->
     <h1 id="prerequesitostitulo">Pré-requesitos</h1>
-    <p id="prerequesitos">Há alguns requesitos minímos para se utilizar a framework Flask, mas sendo esta uma microframework, estes requesitos não chegam a ser extremamente complicados.</p>
+    <p id="prerequesitos">Há alguns requesitos minímos para fazer testes com o PyTest:</p>
     <ul id="lista2">
-        <li>Um ambiente de programação Python 3, como por exemplo o <a href="https://replit.com/~">Repl.it</a></li>
-        <li>Conhecimento breve sobre programação Python, como loop, funções, entre outros.</li>
+        <li>Python 3.6 ou posterior e um ambiente virtual com o Pytest instalado em seu computador.<a href="https://replit.com/~">Repl.it</a></li>
+        <li>Conhecimento breve sobre programação Python, além de familiaridade com ferramentas de linha de comando e execução de scripts.</li>
     </ul>
-    <p id="segundaparte">Dado estes pré requesitos, já é possível se utilizar do Git para o controlo de versão.</p>
+    <p id="segundaparte">Dado estes pré requesitos, podemos partir para a instalação do PyTest.</p>
     <img id="gifnice" src="/LearnOs/InitialPage/Flask/img/nice.gif" width="450">
     <!-- Fim do segundo tópico -->
 
     <h1 id="comousar">Primeiros passos</h1>
-    <p id="comousartexto">O Flask sendo uma ferramenta extremamente é extremamente fácil de se utilizar, além de ser acessível, neste caso iremos utilizar o <a href="https://replit.com/~">Repl.it</a>, uma IDE online, para criar nossa primeira aplicação se utilizando dessa microframework!</p>
+    <p id="comousartexto">Para instalar o PyTest vamos precisar do cmd </p>
     
     <h3 id="primeiropasso">Primeiro passo:</h3>
-    <p id="primeiropassotexto">O primeiro passo a se fazer é criar um arquivo no Repl.it e acessar a parte de "Packages"</p>
-    <img id="acessarpackages" src="/LearnOs/InitialPage/Flask/img/Group 20.png" width="800">
+    <p id="primeiropassotexto">Ao abrir o cmd iremos executar o comando "pip install pytest==2.9.1"</p>
+    <img id="acessarpackages" src="/LearnOs/InitialPage/Pytest/img/pytest1.png" width="800">
     
     <h3 id="segundopasso">Segundo passo:</h3>
-    <p id="segundopassotexto">O segundo passo é pesquisar pela framework "Flask" e instalar ela no Repl.it!</p>
-    <img id="installflask" src="/LearnOs/InitialPage/Flask/img/Group 21.png" width="750">
-    
-    <h3 id="terceiropasso">Terceiro Passo:</h3>
-    <p id="terceiropassotexto">A partir desse ponto nós já podemos começar a usar o Flask! Vamos testar ele criando um site web que reproduza a mensagem "Hello, World!</p>
-    <img id="primeirarun" src="/LearnOs/InitialPage/Flask/img/primeiraplicacao.png" width="750">
-    <p id="terceiropassotexto2">Pronto, dado esse processo você já terá sua primeira página web utilizando Flask! É importante dizer que para rodar as aplicações em Flask é necessário colocar o run. </p>
-    
+    <p id="segundopassotexto">Agora para confirmarmos que a instalação foi um sucesso digitaremos esse comando "py.test -h"</p>
+    <img id="installflask" src="/LearnOs/InitialPage/Pytest/img/pytest2.png" width="750">
+
     <h1 id="Documentacao">Documentação</h1>
-    <p id="documentacaotutorial">Agora que você já criou sua primeira aplicação em Flask, talvez você queira descobrir mais sobre essa framework poderosa! Para isso iremos deixar alguns sites que podem te guiar nessa jornada :)</p>
+    <p id="documentacaotutorial">A partir desse ponto nós já podemos começar a usar o Pytest! Fique a vontade para fazer seus testes!, Para isso iremos deixar alguns sites que podem te guiar nessa jornada :)</p>
 
     <!-- Links/Imagens -->
-    <a href="https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-using-flask-in-python-3-pt"><div class ="DigitalOcean"><img src="/LearnOs/InitialPage/Flask/img/DigitalOcean.png" width="300"></div></a>
-    <a href="https://docs.microsoft.com/pt-br/visualstudio/python/learn-flask-visual-studio-step-01-project-solution?view=vs-2022"><div class ="Microsoft"><img src="/LearnOs/InitialPage/Flask/img/Microsoft.png" width="300"></div></a>
-    <a href="https://www.freecodecamp.org/portuguese/news/como-criar-uma-aplicacao-da-web-usando-o-flask-e-implanta-la-na-nuvem/"><div class ="freeCodeCamp"><img src="/LearnOs/InitialPage/Flask/img/freecodeCamp.png" width="300"></div></a>
+    <div class="container">
+    <a href="https://realpython.com/pytest-python-testing/" class ="RealPython"><img src="/LearnOs/InitialPage/Pytest/img/Real Python.jpg" width="300"></a>
+    <a href="https://docs.microsoft.com/pt-br/learn/modules/test-python-with-pytest/"> class ="Microsoft"><img src="/LearnOs/InitialPage/Flask/img/Microsoft.png" width="300"></a>
+    <a href="https://medium.com/assertqualityassurance/tutorial-de-pytest-para-iniciantes-cbdd81c6d761" class ="Medium"><img src="/LearnOs/InitialPage/Pytest/img/medium.png" width="300"></a>
+    </div>
     <!-- <a href="/InitialPage/index.html" class="seta"><img src="/InitialPage/Flask/img/arrow-left.png"></div> -->
     <!-- Fim -->
 
     <h1 id="fonte">Fonte</h1>
     <ul id="fontelista">
-        <li>DigitalOcean:<a href="https://www.digitalocean.com/community/tutorials/ how-to-make-a-web-application-using-flask-in-python-3-pt"> Como criar um aplicativo Web usando o Flask em Python 3</a></li>
-        <li>Microsoft:<a href="https://docs.microsoft.com/pt-br/visualstudio/python/learn-flask-visual-studio-step-01-project-solution?view=vs-2022"> Tutorial: Introdução à estrutura da Web do Flask no Visual Studio</a></li>
-        <li>freeCodeCamp:<a href="https://www.freecodecamp.org/portuguese/news/como-criar-uma-aplicacao-da-web-usando-o-flask-e-implanta-la-na-nuvem/"> Como criar uma aplicação da web usando o Flask e implantá-la na nuvem</a></li>
+        <li>Microsoft:<a href="https://docs.microsoft.com/pt-br/learn/modules/test-python-with-pytest/"> Tutorial: Fazer testes com o Pytest</a></li>
+        <li>Guru99:<a href="https://www.guru99.com/pytest-tutorial.html"> Tutorial PyTest: O que é, como instalar, estrutura, asserções</a></li>
     
 </main>
     </ul>
